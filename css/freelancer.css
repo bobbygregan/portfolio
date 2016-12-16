@@ -6,12 +6,13 @@
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
+  font-size: 20px!important;
 }
 p {
   font-size: 20px;
 }
 p.small {
-  font-size: 16px;
+  font-size: 22px;
 }
 a,
 a:hover,
@@ -186,6 +187,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
+  font-size: 20px;
   background: #008000;
   color: white;
 }
@@ -292,6 +294,7 @@ section.success {
   color: #18BC9C;
 }
 form .row:first-child .floating-label-form-group {
+  font-size: 20px;
   border-top: 1px solid #eeeeee;
 }
 footer {

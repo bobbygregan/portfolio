@@ -2,14 +2,20 @@ header {
     background: #008000;
 }
 body 
-{background-color:#333} 
+{
+
+	background-color:#333;
+	font-size: 20px;
+}
+
+
 
 .img-responsive{
 	  width: 300px;
     height: 300px;
     }
-    #header1 
+#header1 
     {
-    	 width: 600px;
+    width: 600px;
     height: 600px;
     }
