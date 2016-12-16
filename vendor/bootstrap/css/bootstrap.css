@@ -1115,15 +1115,24 @@ figure {
 img {
   vertical-align: middle;
 }
+<<<<<<< HEAD
 
+=======
+.img-responsive,
+>>>>>>> origin/master
 .thumbnail > img,
 .thumbnail a > img,
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
+<<<<<<< HEAD
   margin-top: 20px;
   margin-bottom: 20px;
   height: 20px;
+=======
+  max-width: 100%;
+  height: auto;
+>>>>>>> origin/master
 }
 .img-rounded {
   border-radius: 6px;
