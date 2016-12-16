@@ -3,3 +3,13 @@ header {
 }
 body 
 {background-color:#333} 
+
+.img-responsive{
+	  width: 300px;
+    height: 300px;
+    }
+    #header1 
+    {
+    	 width: 600px;
+    height: 600px;
+    }
